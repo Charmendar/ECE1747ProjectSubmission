@@ -1,0 +1,4 @@
+﻿  Filter.cpp
+d:\university of toronto\parallel programming\project\image filter\filter.cpp(217): warning C4172: returning address of local variable or temporary: coord
+  Filter.vcxproj -> D:\University of Toronto\Parallel Programming\Project\Image Filter\x64\Debug\Filter.exe
+  Filter.vcxproj -> D:\University of Toronto\Parallel Programming\Project\Image Filter\x64\Debug\Filter.pdb (Partial PDB)

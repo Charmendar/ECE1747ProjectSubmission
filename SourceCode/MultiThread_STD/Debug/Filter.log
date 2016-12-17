@@ -1,0 +1,35 @@
+﻿  Filter.cpp
+Filter.cpp(50): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Filter.cpp(90): warning C4474: 'sprintf' : too many arguments passed for format string
+  Filter.cpp(90): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+Filter.cpp(90): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Filter.cpp(91): warning C4474: 'sprintf' : too many arguments passed for format string
+  Filter.cpp(91): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+Filter.cpp(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Filter.cpp(92): warning C4474: 'sprintf' : too many arguments passed for format string
+  Filter.cpp(92): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+Filter.cpp(92): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Filter.cpp(93): warning C4474: 'sprintf' : too many arguments passed for format string
+  Filter.cpp(93): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+Filter.cpp(93): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Filter.cpp(94): warning C4474: 'sprintf' : too many arguments passed for format string
+  Filter.cpp(94): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+Filter.cpp(94): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Filter.cpp(95): warning C4474: 'sprintf' : too many arguments passed for format string
+  Filter.cpp(95): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+Filter.cpp(95): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Filter.cpp(204): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Filter.cpp(205): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Filter.cpp(320): warning C4244: '=': conversion from 'int64' to 'int', possible loss of data
+Filter.cpp(329): warning C4244: '=': conversion from 'int64' to 'int', possible loss of data
+Filter.cpp(331): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\university of toronto\parallel programming\project\image filter_multithread\filter.cpp(255): warning C4172: returning address of local variable or temporary: coord
+d:\university of toronto\parallel programming\project\image filter_multithread\filter.cpp(357): warning C4715: 'imageProc': not all control paths return a value
+opencv_world310d.lib(opencv_world310d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(638,5): error MSB6006: "link.exe" exited with code 1112.
